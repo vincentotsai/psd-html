@@ -46,3 +46,102 @@
 .index-banner-text .text-info .line-r {
 	margin-left: 26px;
 }
+
+.index-menu {
+	position: relative;
+	border-top: 4px solid #f34949;
+}
+
+.index-menu .menu-tips {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -78px;
+	width: 158px;
+	height: 72px;
+	background: #f34949;
+	text-align: center;
+	color: #fff;
+	line-height: 62px;
+}
+
+/*get伪类*/
+.index-menu .menu-tips:after {
+	position: absolute;
+	content: "";
+	left: 0;
+	bottom: 0;
+	width: 0;
+	height: 0;
+	border-left: 78px solid transparent;
+	border-right: 78px solid transparent;
+	border-bottom: 10px solid #fff;
+}
+
+.index-menu .menu-list {
+	margin-top: 150px;
+	color: #555;
+	overflow: hidden;
+}
+
+.index-menu .menu-list ul {
+	width: 1160px;
+}
+
+.index-menu .memu-item {
+	float: left;
+	width: 520px;
+	margin-right: 60px;
+	margin-bottom: 56px;
+}
+
+.index-menu .memu-item .title {
+	float: left;
+}
+
+.index-menu .memu-item .line {
+	float: left;
+	margin: 0 18px;
+}
+
+..index-menu .memu-item .price {
+	float: right;
+}
+
+.index-menu .memu-item .title {
+	width: 230px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;/*超出部分未显示：...*/
+}
+
+.index-menu .memu-item .line{
+	width: 190px;
+	margin-top: 10px;
+	border-top: 1px solid #e3e1e1;
+}
+
+.index-menu .memu-item .comment {
+	margin-top: 4px;
+	color: #b7b7b7;
+	font-size: 12px;
+}
+
+.index-menu .menu-more-btn {
+	margin: 0 auto;
+	width: 114px;
+	height: 32px;
+	padding-left: 16px;
+	border: 1px solid #d7d5d5;
+	font-size: 14px;
+	line-height: 32px;
+	color: #b7b7b7;
+}
+
+.index-menu .menu-more-btn .icon {
+	display: inline-block;
+	height: 7px;
+	width: 11px;
+	margin-left: 10px;
+	background: url(../images/icon.jpg);
+}
