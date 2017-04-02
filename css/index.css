@@ -237,3 +237,29 @@
 .index-food-list .food-item .nostar {
 	background-position: 0 -12px;
 }
+
+/*panel2*/
+.index-pics {
+	height: 380px;
+	overflow: hidden;
+}
+
+.index-pics .pic-col {
+	float: left;
+}
+
+.index-pics .pic-col-m {
+	width: 353px;
+}
+
+.index-pics .pic-col-s {
+	width: 287px;
+}
+
+.index-pics .pic-col-l {
+	width: 460px;
+}
+
+.index-panel-2 {
+	margin-bottom: 100px;
+}
