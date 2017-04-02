@@ -39,3 +39,28 @@
 	height: 318px;
 	background: #3b3b3b;
 }
+
+.public-footer .footer-col {
+	width:230px;
+	float: left;
+	margin-right: 60px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 1.8;
+	margin-top: 100px;
+}
+
+.public-footer .footer-col:last-child {
+	margin-right: 0;
+	margin-top: 80px;
+}
+
+.public-footer .footer-col a {
+	color: #fff;
+}
+
+.public-footer .footer-col .footer-logo {
+	width: 182px;
+	height: 55px;
+	background-image: url("../images/footer-logo.png");
+}
