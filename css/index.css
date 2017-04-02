@@ -145,3 +145,44 @@
 	margin-left: 10px;
 	background: url(../images/icon.jpg);
 }
+
+/*panel*/
+.index-panel {
+	margin-top: 200px;
+}
+
+.index-panel-header {
+
+}
+
+.index-panel-header h3 {
+	float: left;
+	margin-right: 48px;
+	font-size: 20px;
+	color: #3b3b3b;
+}
+
+.index-panel-header .line {
+	float: left;
+	width: 200px;
+	border-top: 1px solid #e5e3e3;
+	margin-top: 10px;
+}
+
+.index-panel-header .btn-group {
+	float: right;
+	font-size: 0;/*用来解决下面的display:inline-block造成的4像素的间距问题。（行内元素有4像素的间距）*/
+}
+
+.index-panel-header .btn-group .btn {
+	display: inline-block;
+	margin-left: 11px;
+	width: 9px;
+	height: 9px;
+	background: #dedede;
+	border-radius: 50%;
+}
+
+.index-panel-header .btn-group .active {
+	background: #9b9b9b;
+} 
