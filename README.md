@@ -1,10 +1,10 @@
-# psd-html要点
-> 切图的基本流程
-> 加深对HTML标签及css规范的理解
-> 考虑浏览器兼容性
+# 目录
+> #### 切图的基本流程
+> #### 加深对HTML标签及css规范的理解
+> #### 考虑浏览器兼容性
 
 ## 1. 切图的基本流程
-安装和使用[Adobe Photoshop CC 2015](jingyan.baidu.com/article/0320e2c1ca4c091b87507ba7.html)
+安装和使用[Adobe Photoshop CC 2015](http://jingyan.baidu.com/article/0320e2c1ca4c091b87507ba7.html)
 
 ## CSS 和 HTML 代码配合；
 CSS规范命名和HTML标签结构应用；
