@@ -13,6 +13,6 @@
 
 ## 2. 列出HTML结构
 
-设计HTML结构,先列出主干。视情况用HTML5标签语义化。定义class ID时做到合理，如定义public-header要比header好。
+设计HTML结构，先列出主干。视情况用HTML5标签语义化。定义class ID时做到合理，如定义public-header要比header好。
 
-3. 设置fontcolor要在a标签上写。
+！fontcolor要在a标签上写
