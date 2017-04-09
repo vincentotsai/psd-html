@@ -3,6 +3,7 @@
 > #### 加深对HTML标签及css规范的理解
 > #### 考虑浏览器兼容性
 
+还原度高、
 ## 1. 切图的基本流程
 
 安装和使用[Adobe Photoshop CC 2015](http://jingyan.baidu.com/article/0320e2c1ca4c091b87507ba7.html)。
